@@ -1,6 +1,6 @@
 # Cloud Computing Course - Documentación
 
-Sitio de documentación del curso de Computación en la Nube, construido con [Docusaurus](https://docusaurus.io/).
+Sitio de documentación del curso de Computación en la Nube, construido con [Docusaurus](https://docusaurus.io/) .
 
 ## Instalación
 
@@ -48,9 +48,9 @@ El proyecto está configurado para publicarse en **GitHub Pages** mediante **Git
 
 Edita en `docusaurus.config.ts`:
 
-- `url`: `https://TU-USUARIO.github.io`
+- `url`: `https://github.com/Esme0123/cloud-computing-course.git`
 - `baseUrl`: `'/NOMBRE-REPO/'`
-- `organizationName`: tu usuario de GitHub
-- `projectName`: nombre del repositorio
+- `organizationName`: Esme0123
+- `projectName`: cloud-computing-course
 
 Así la URL final será `https://TU-USUARIO.github.io/NOMBRE-REPO/`.
